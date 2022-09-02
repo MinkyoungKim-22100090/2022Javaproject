@@ -1,4 +1,4 @@
 ## 실행 결과 화면 
 
 ###1. hello world
-<img src='https://github.com/MinkyoungKim-22100090/2022Javaproject/blob/master/screenshot/스크린샷%202022-09-02%20오후%205.13.32.png?raw=true'width='300'>
+<img src='https://github.com/MinkyoungKim-22100090/2022Javaproject/blob/master/screenshot/스크린샷%202022-09-02%20오후%205.13.32.png?raw=true'>
